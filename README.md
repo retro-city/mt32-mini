@@ -6,6 +6,9 @@ The intention is to use the case with the [mt32-pi project](https://github.com/d
 
 The project has started as a response to the lack of MT-32 synths available *in the wild* as well as the increasing price of the original vintage synth hardware.
 
+Please report any suggestions or issues using the GitHub issue tracker.<br />
+Interested in purchasing ready-to-use products? Contact <a href="mailto:sales@retrocity.no">sales@retrocity.no</a>.
+
 ## Licensing
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />3D Models, CAD-files, images and image-renders are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 <br/><br/>
